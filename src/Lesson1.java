@@ -9,6 +9,7 @@ public class Lesson1 {
         double z = 0.14;
         boolean bool = true;
         char n = 'c';
+        
     }
 
     public static int cl(int a, int b, int c, int d){
